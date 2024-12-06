@@ -36,6 +36,7 @@ h1, h2 {
 /* Paragraph styles */
 p {
     margin-bottom: 10px;
+   font-size:10px;
 }
 
 /* Ordered list styles */
